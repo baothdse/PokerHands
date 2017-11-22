@@ -5,14 +5,6 @@ import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-/**
- * @author USER
- *
- */
-/**
- * @author USER
- *
- */
 public class CardProcess {
 	
 	/**
